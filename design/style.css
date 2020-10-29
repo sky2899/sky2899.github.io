@@ -1,0 +1,4 @@
+.card_title {
+-webkit-transform: rotate(90deg);
+-webkit-transform-origin: left top;
+}
