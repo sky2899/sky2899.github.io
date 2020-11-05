@@ -1,7 +1,9 @@
-
+.main {
+  position: relative;
+}
 
 .year {
   position: absolute;
-  left: 100px;
-  top: 100px;
+  left: 50px;
+  top: 384px;
 }
