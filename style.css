@@ -2,8 +2,17 @@
   position: relative;
 }
 
+.nabi {
+  position: fixed;
+}
+
 .year {
   position: absolute;
   left: 50px;
   top: 384px;
+}
+
+.list-group-item {
+  border: none;
+  padding: .4rem 0;
 }
